@@ -1,0 +1,19 @@
+{
+  "model_name": "poker44-chunk-detector",
+  "model_version": "1",
+  "framework": "mlp",
+  "license": "MIT",
+  "repo_url": "https://github.com/IanPereraFlo/poker-d2",
+  "artifact_sha256": "dc7cc6c02c43897aa08659bb2ef2b2598f2bc1ac2e595297f470ce0b70b73f69",
+  "open_source": true,
+  "inference_mode": "local-joblib",
+  "data_attestation": "No validator-private evaluation labels are used for training. Training uses released benchmark data and local runtime features.",
+  "implementation_files": [
+    "neurons/miner.py",
+    "src/poker44_model_base/loader.py",
+    "poker44_ml/inference.py",
+    "poker44_ml/features.py",
+    "poker44_ml/stacked.py",
+    "poker44/validator/payload_view.py"
+  ]
+}
