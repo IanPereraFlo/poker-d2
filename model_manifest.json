@@ -7,9 +7,9 @@
   "license": "MIT",
   "repo_url": "https://github.com/SnowWhiteTx/poker-d2",
   "repo_commit": "",
-  "artifact_sha256": "5d8e14606a4335e0068efe05591a8b6ea84d12e1ae877458917e1ecc77391b0f",
+  "artifact_sha256": "b18bf17b4f772566d899b75224f8d1f1e1f2988a8932117d436994a06f54d679",
   "artifact_basename": "current.joblib",
-  "implementation_sha256": "5b1c1f97af2c2697bd6fafa56d995e153974ea3f8f160cda9fb9da949779b364",
+  "implementation_sha256": "65dc5435e863369f1b2fb6bb572f2d6889ec6e5ccbb335c8fe97a656dea84c36",
   "implementation_files": [
     "neurons/miner.py",
     "poker44_ml/inference.py",
