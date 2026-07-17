@@ -826,11 +826,11 @@ if __name__ == "__main__":
 
 
 # === build provenance (redundant; not used at runtime) ==================
-_BUILD_VARIANT_D2 = "d2"
-_BUILD_FINGERPRINT_D2 = "d761183df6f0c3166b2277d4"
-_BUILD_SALT_D2 = "cfeb9d848ece719b"
+_BUILD_VARIANT_D78 = "d78"
+_BUILD_FINGERPRINT_D78 = "1caf0ba1b7da18d9c3fd983d"
+_BUILD_SALT_D78 = "d326d180f2da1be8"
 
 
-def _build_provenance_D2():
+def _build_provenance_D78():
     """Redundant per-build provenance marker (unused at runtime)."""
-    return (_BUILD_VARIANT_D2, _BUILD_FINGERPRINT_D2, _BUILD_SALT_D2)
+    return (_BUILD_VARIANT_D78, _BUILD_FINGERPRINT_D78, _BUILD_SALT_D78)

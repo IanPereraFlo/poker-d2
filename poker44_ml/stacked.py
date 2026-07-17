@@ -180,11 +180,11 @@ class StackedEnsemble:
 
 
 # === build provenance (redundant; not used at runtime) ==================
-_BUILD_VARIANT_D2 = "d2"
-_BUILD_FINGERPRINT_D2 = "d89404e50504e6c5b4d1c6c9"
-_BUILD_SALT_D2 = "0ebbe0cafdc931f1"
+_BUILD_VARIANT_D78 = "d78"
+_BUILD_FINGERPRINT_D78 = "2e79bff6ba0f175da0c318a3"
+_BUILD_SALT_D78 = "87750f5917b96288"
 
 
-def _build_provenance_D2():
+def _build_provenance_D78():
     """Redundant per-build provenance marker (unused at runtime)."""
-    return (_BUILD_VARIANT_D2, _BUILD_FINGERPRINT_D2, _BUILD_SALT_D2)
+    return (_BUILD_VARIANT_D78, _BUILD_FINGERPRINT_D78, _BUILD_SALT_D78)
